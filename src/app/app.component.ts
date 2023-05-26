@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'Web_Store';
 
   Daniel: any= {
-        nombre: "Daniel",
+        nombre: "Daniel Febres ",
         edad: "26",
         titulo: "Ingeniero",
         Ciudad: "Loja",
@@ -27,6 +27,18 @@ export class AppComponent {
 
 
 }
+
+Milenny: any= {
+  nombre: "Milenny Suquilanda",
+  edad: "29",
+  titulo: "Comunicador Social",
+  Ciudad: "Loja",
+  celular:"0992197088"
+
+
+}
+
+
 
   Pie: any= {
     materia: "Diseño y Tecnologia Web",
