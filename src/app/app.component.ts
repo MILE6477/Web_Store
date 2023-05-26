@@ -18,6 +18,16 @@ export class AppComponent {
 
   }
 
+  Juan: any= {
+    nombre: "Juan Naranjo",
+    edad: "34",
+    titulo: "Diseñador",
+    Ciudad: "Riobamba",
+    celular:"0984989953"
+
+
+}
+
   Pie: any= {
     materia: "Diseño y Tecnologia Web",
     maestria: "Máster Universitario en Diseño y Producción Multimedia",
