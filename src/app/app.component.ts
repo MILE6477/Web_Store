@@ -13,19 +13,18 @@ export class AppComponent {
         edad: "26",
         titulo: "Ingeniero",
         Ciudad: "Loja",
+        celular:"0987654321"
+
 
   }
 
-  Mile: any= {
-    nombre: ".....",
-    edad: "....",
-    titulo: ".......",
-    Ciudad: ".....",
+  Pie: any= {
+    materia: "Diseño y Tecnologia Web",
+    maestria: "Máster Universitario en Diseño y Producción Multimedia",
+    universidad: "UNIR",
+
+
 
 }
-
-
-
-
 }
 
