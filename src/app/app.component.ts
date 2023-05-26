@@ -38,6 +38,14 @@ Milenny: any= {
 
 }
 
+Paula: any= {
+  nombre: "Paula Carrion",
+  edad: "24",
+  titulo: "Diseñadora Industrial",
+  Ciudad: "Quito",
+  celular:"0987296960"
+
+}
 
 
   Pie: any= {
